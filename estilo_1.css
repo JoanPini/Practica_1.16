@@ -1,0 +1,25 @@
+td{
+    padding: 10px;
+}
+
+p.color{
+    color: grey;
+    size: 20px;
+    text-align: justify;
+}
+
+button{
+
+    margin-left: 40%;
+    width: 120px;
+    height: 60px;
+    background-color: orange;
+    color: white;
+}
+
+fieldset{
+    background-color: lightgray;
+}
+
+
+    
